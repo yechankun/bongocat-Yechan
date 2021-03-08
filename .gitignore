@@ -1,0 +1,7 @@
+*/Release
+*/Debug
+*/x64
+*.vs
+
+*.psd
+/mongoProject/*.png
